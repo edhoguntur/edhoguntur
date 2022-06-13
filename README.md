@@ -5,8 +5,7 @@
 <ul align="Center">
   <li> 💬 I'm Edho, I'm a self-taught passionate as Software Engineer </li>
   <li> 🔭 I’m currently working on Mirai Digital Solusi </li>
-  <li align="Left"> 🌱 I’m currently learning Go and Vue </li>
-  <li> 📫 How to reach me: edho.guntur@gmail.com </li>
+  <li> 🌱 I’m currently learning Go and Vue </li>
 </ul>
 
 <p align="Center">
