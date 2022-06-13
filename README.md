@@ -3,19 +3,17 @@
 <h3 align="Center">About me</h3>
 
 <ul align="Center">
-  <li>- 💬 I'm Edho, I'm a self-taught passionate as Software Engineer</li>
-  <li>- 🔭 I’m currently working on Mirai Digital Solusi</li>
-  <li>- 🌱 I’m currently learning Go and Vue</li>
+  <li>💬 I'm Edho, I'm a self-taught passionate as Software Engineer</li>
+  <li>🔭 I’m currently working on Mirai Digital Solusi</li>
+  <li>🌱 I’m currently learning Go and Vue</li>
 </ul>
-
 
 <p align="Center">
 <a href="https://github.com/anuraghazra/github-readme-stats" target="blank"><img align="Center" src="https://github-readme-stats.vercel.app/api?username=edhoguntur&show_icons=true&theme=gruvbox" alt="Edho's Github stats" /></a>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edhoguntur&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) 
 </p>
 
 <p align="Center">
-[![trophy](https://github-profile-trophy.vercel.app/?username=edhoguntur&row=4&column=4&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/ryo-ma/github-profile-trophy" target="blank"><img align="Center" src="https://github-profile-trophy.vercel.app/?username=edhoguntur&row=4&column=4&theme=gruvbox" alt="Trophy" /></a>
 </p>
 
 <h3 align="Center">Connect with me:</h3>
