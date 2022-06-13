@@ -1,8 +1,9 @@
 ### Welcome!
 
 I'm Edho, I'm a self-taught passionate as Software Engineer
-
+<p align="Center">
 **About me**
+  </p>
 - 🔭 I’m currently working on Mirai Digital Solusi
 - 🌱 I’m currently learning Go and Vue
 
@@ -11,14 +12,15 @@ I'm Edho, I'm a self-taught passionate as Software Engineer
 [![trophy](https://github-profile-trophy.vercel.app/?username=edhoguntur&row=4&column=4&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="Center">Connect with me:</h3>
-<p align="left">
+<p align="Center">
 <a href="https://twitter.com/edhoguntur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="n9te9" height="30" width="40" /></a>
 </p>
 
-#### Focusing on 
-
+<h3 align="Center">Programming Language</h3>
+<p align="Center">
 <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
 <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="go" width="40" height="40"/> </a>
+</p>
 
 <!--
 **edhoguntur/edhoguntur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
