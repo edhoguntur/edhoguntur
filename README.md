@@ -1,9 +1,10 @@
 ### Welcome!
 
-I'm Edho, I'm a self-taught passionate as Software Engineer
 <p align="Center">
 **About me**
-  </p>
+</p>
+
+- 💬 I'm Edho, I'm a self-taught passionate as Software Engineer
 - 🔭 I’m currently working on Mirai Digital Solusi
 - 🌱 I’m currently learning Go and Vue
 
