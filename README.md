@@ -8,7 +8,7 @@ I'm Edho, I'm a self-taught passionate as Software Engineer
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edhoguntur&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=edhoguntur&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=edhoguntur&row=2&column=3&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
