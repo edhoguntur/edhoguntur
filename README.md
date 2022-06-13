@@ -19,6 +19,7 @@
 <h3 align="Center">Connect with me:</h3>
 <p align="Center">
 <a href="https://twitter.com/edhoguntur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="n9te9" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/edho-guntur-adhitama-7b91b473/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="n9te9" height="30" width="40" /></a>
 </p>
 
 <h3 align="Center">Programming Language</h3>
