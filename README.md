@@ -1,16 +1,18 @@
-### Welcome!
+<h2 align="Center">Welcome!</h2>
 
-<p align="Center">
-**About me**
-</p>
+<h3 align="Center">About me</h3>
 
 - 💬 I'm Edho, I'm a self-taught passionate as Software Engineer
 - 🔭 I’m currently working on Mirai Digital Solusi
 - 🌱 I’m currently learning Go and Vue
 
+<p align="Center">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edhoguntur&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) 
+</p>
 
+<p align="Center">
 [![trophy](https://github-profile-trophy.vercel.app/?username=edhoguntur&row=4&column=4&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+</p>
 
 <h3 align="Center">Connect with me:</h3>
 <p align="Center">
