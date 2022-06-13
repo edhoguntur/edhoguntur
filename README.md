@@ -2,8 +2,7 @@
 
 <p align="Left"> <img src=https://komarev.com/ghpvc/?username=edhoguntur alt="edhoguntur"/> </p>
 
-<p align="Left"> <a href="https://twitter.com/edhoguntur" target="blank"><img src="https://img.shields.io/twitter/follow/edhoguntur?logo=twitter&style=for-the-badge" alt="edhoguntur" /></a><a href="https://www.linkedin.com/in/edho-guntur-adhitama-7b91b473/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="n9te9" height="30" width="40" /></a>
-</p>
+<p align="Left"> <a href="https://twitter.com/edhoguntur" target="blank"><img src="https://img.shields.io/twitter/follow/edhoguntur?logo=twitter&style=for-the-badge" alt="edhoguntur" /></a> </p>
 
 <h3 align="Center">About me</h3>
 
