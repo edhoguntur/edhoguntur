@@ -1,5 +1,10 @@
-### Hi there 👋
+###Welcome!
 
+#Hi there 👋
+
+I'm Edho
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edhoguntur)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **edhoguntur/edhoguntur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
