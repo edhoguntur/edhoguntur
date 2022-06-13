@@ -2,11 +2,15 @@
 
 <h3 align="Center">About me</h3>
 
-- 💬 I'm Edho, I'm a self-taught passionate as Software Engineer
-- 🔭 I’m currently working on Mirai Digital Solusi
-- 🌱 I’m currently learning Go and Vue
+<ul align="Center">
+  <li>- 💬 I'm Edho, I'm a self-taught passionate as Software Engineer</li>
+  <li>- 🔭 I’m currently working on Mirai Digital Solusi</li>
+  <li>- 🌱 I’m currently learning Go and Vue</li>
+</ul>
+
 
 <p align="Center">
+<a href="https://github.com/anuraghazra/github-readme-stats" target="blank"><img align="Center" src="https://github-readme-stats.vercel.app/api?username=edhoguntur&show_icons=true&theme=gruvbox" alt="Edho's Github stats" /></a>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edhoguntur&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) 
 </p>
 
