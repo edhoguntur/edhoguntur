@@ -4,7 +4,7 @@
 <p> <a href="https://twitter.com/edhoguntur" target="blank"><img src="https://img.shields.io/twitter/follow/edhoguntur?logo=twitter&style=for-the-badge" alt="edhoguntur" /></a> </p>
 
 | ✨ About Me ✨ |
-|-|
+|:-----:|
 | 💬 I'm Edho, a self-taught passionate as Software Engineer|
 | 🔭 I’m currently working on Mirai Digital Solusi |
 | 🌱 I’m currently learning Go and Vue |
