@@ -10,7 +10,7 @@
 | 🌱 I’m currently learning Go and Vue |
 | 📫 How to reach me: edho.guntur@gmail.com |
 
-<h3 style="color : green">Programming Language & Tools</h3>
+###+Programming Language & Tools
 <p align="Left">
 <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
 <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="go" width="40" height="40"/> </a>
