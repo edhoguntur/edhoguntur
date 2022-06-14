@@ -10,15 +10,16 @@
 | 🌱 I’m currently learning Go and Vue |
 | 📫 How to reach me: edho.guntur@gmail.com |
 
-<a href="https://github.com/anuraghazra/github-readme-stats" target="blank"><img align="Center" src="https://github-readme-stats.vercel.app/api?username=edhoguntur&show_icons=true&theme=gruvbox" alt="Edho's Github stats" /></a>
-
-<a href="https://github.com/ryo-ma/github-profile-trophy" target="blank"><img align="Center" src="https://github-profile-trophy.vercel.app/?username=edhoguntur&row=7&theme=gruvbox" alt="Trophy" /></a>
-
-<h3>Programming Language & Tool</h3>
+<h3>Programming Language & Tools</h3>
 <p align="Left">
 <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
 <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="go" width="40" height="40"/> </a>
 </p>
+
+<a href="https://github.com/anuraghazra/github-readme-stats" target="blank"><img align="Center" src="https://github-readme-stats.vercel.app/api?username=edhoguntur&show_icons=true&theme=gruvbox" alt="Edho's Github stats" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy" target="blank"><img align="Center" src="https://github-profile-trophy.vercel.app/?username=edhoguntur&row=7&theme=gruvbox" alt="Trophy" /></a>
+
+
 
 <!--
 **edhoguntur/edhoguntur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
