@@ -1,7 +1,6 @@
 <h2 align="Center">👋 Hi There!, Welcome!</h2>
 
 <p align="Left"> <img src=https://komarev.com/ghpvc/?username=edhoguntur alt="edhoguntur"/> </p>
-
 <p align="Left"> <a href="https://twitter.com/edhoguntur" target="blank"><img src="https://img.shields.io/twitter/follow/edhoguntur?logo=twitter&style=for-the-badge" alt="edhoguntur" /></a> </p>
 
 | About Me |
