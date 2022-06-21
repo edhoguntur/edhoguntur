@@ -17,8 +17,9 @@
 <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="go" width="40" height="40"/> </a>
 </p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats" target="blank"><img align="Center" src="https://github-readme-stats.vercel.app/api?username=edhoguntur&show_icons=true&theme=gruvbox" alt="Edho's Github stats" /></a> <br />
-<a href="https://github.com/ryo-ma/github-profile-trophy" target="blank"><img align="Center" src="https://github-profile-trophy.vercel.app/?username=edhoguntur&row=7&theme=gruvbox" alt="Trophy" /></a>
+<p><a href="https://github.com/anuraghazra/github-readme-stats" target="blank"><img align="Center" src="https://github-readme-stats.vercel.app/api?username=edhoguntur&show_icons=true&theme=gruvbox" alt="Edho's Github stats" /></a></p><br/>
+
+<p><a href="https://github.com/ryo-ma/github-profile-trophy" target="blank"><img align="Center" src="https://github-profile-trophy.vercel.app/?username=edhoguntur&row=7&theme=gruvbox" alt="Trophy" /></a></p>
 
 
 
