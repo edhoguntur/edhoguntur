@@ -6,7 +6,7 @@
 | ✨ About Me ✨ |
 |:-----:|
 | 💬 I'm Edho, a self-taught passionate as Software Engineer|
-| 🔭 I’m currently working on Mirai Digital Solusi |
+| 🔭 I’m currently working on PT Mirai Digital Solusi |
 | 🌱 I’m currently learning Go and Vue |
 | 📫 How to reach me: edho.guntur@gmail.com |
 
