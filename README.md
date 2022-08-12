@@ -7,7 +7,7 @@
 |:-----:|
 | 💬 I'm Edho, a self-taught passionate as Software Engineer|
 | 🔭 I’m currently working on PT Mirai Digital Solusi |
-| 🌱 I’m currently learning Go and Vue |
+| 🌱 I’m currently focusing on Go |
 | 📫 How to reach me: edho.guntur@gmail.com |
 
 ### Programming Language & Tools
