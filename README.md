@@ -1,4 +1,4 @@
-<h2 align="Center">👋 Hi There!</h2>
+<h2 align="Center">👋 Hi There! 😁</h2>
 
 <p> <img src=https://komarev.com/ghpvc/?username=edhoguntur alt="edhoguntur"/> </p>
 <p> <a href="https://twitter.com/edhoguntur" target="blank"><img src="https://img.shields.io/twitter/follow/edhoguntur?logo=twitter&style=for-the-badge" alt="edhoguntur" /></a> </p>
