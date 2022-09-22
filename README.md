@@ -10,12 +10,14 @@
 | 🌱 I’m currently focusing on Go |
 | 📫 How to reach me: edho.guntur@gmail.com |
 
+<!--
 ### Programming Language & Tools
 
 <p align="Left">
 <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
 <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="go" width="40" height="40"/> </a>
 </p>
+-->
 
 <p><a href="https://github.com/anuraghazra/github-readme-stats" target="blank"><img align="Center" src="https://github-readme-stats.vercel.app/api?username=edhoguntur&show_icons=true&theme=gruvbox" alt="Edho's Github stats" /></a></p><br/>
 
