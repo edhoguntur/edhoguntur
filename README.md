@@ -7,7 +7,7 @@
 |:-----:|
 | 💬 I'm Edho, a self-taught passionate as Software Engineer|
 | 🔭 I’m currently working on PT Mirai Digital Solusi |
-| 🌱 I’m currently focusing on Go |
+| 🌱 I’m currently focusing on Go as Backend Developer & Swift as IOS Developer |
 | 📫 How to reach me: edho.guntur@gmail.com |
 
 <!--
