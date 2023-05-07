@@ -18,13 +18,16 @@
 <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="go" width="40" height="40"/> </a>
 </p>
 -->
+---
+💻 Main Tech Stack
 
-<p><a href="https://github.com/anuraghazra/github-readme-stats" target="blank"><img align="Center" src="https://github-readme-stats.vercel.app/api?username=edhoguntur&show_icons=true&theme=gruvbox" alt="Edho's Github stats" /></a></p><br/>
-
+<img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" alt="docker logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" alt="go logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" alt="swift logo" width="40" height="40" />
+--
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=edhoguntur&hide=css,java,html&theme=gruvbox)
 <br/>
+<p><a href="https://github.com/anuraghazra/github-readme-stats" target="blank"><img align="Center" src="https://github-readme-stats.vercel.app/api?username=edhoguntur&show_icons=true&theme=gruvbox" alt="Edho's Github stats" /></a></p><br/>
 
-<p><a href="https://github.com/ryo-ma/github-profile-trophy" target="blank"><img align="Center" src="https://github-profile-trophy.vercel.app/?username=edhoguntur&row=7&theme=gruvbox" alt="Trophy" /></a></p>
+
 
 
 
