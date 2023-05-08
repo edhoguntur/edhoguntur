@@ -28,7 +28,7 @@
 💹 Github Stats
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=edhoguntur&hide=css,java,html&theme=gruvbox) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edhoguntur&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 <p><a href="https://github.com/anuraghazra/github-readme-stats" target="blank"><img align="Center" src="https://github-readme-stats.vercel.app/api?username=edhoguntur&show_icons=true&theme=gruvbox" alt="Edho's Github stats" /></a></p><br/>
 
