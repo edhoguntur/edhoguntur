@@ -22,9 +22,7 @@
 ---
 💻 Main Tech Stack
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" alt="docker logo" width="40" height="40" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" alt="go logo" width="40" height="40" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" alt="swift logo" width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" alt="docker logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" alt="go logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" alt="swift logo" width="40" height="40" />
 
 ---
 💹 Github Stats
