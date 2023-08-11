@@ -24,13 +24,13 @@
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" alt="docker logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" alt="go logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" alt="swift logo" width="40" height="40" />
 
----
+<!--
 💹 Github Stats
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=edhoguntur&hide=css,java,html&theme=gruvbox&langs_count=3)
 <br/>
 <p><a href="https://github.com/anuraghazra/github-readme-stats" target="blank"><img align="Center" src="https://github-readme-stats.vercel.app/api?username=edhoguntur&show_icons=true&theme=gruvbox" alt="Edho's Github stats" /></a></p><br/>
-
+-->
 
 
 
